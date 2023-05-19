@@ -1,1 +1,2 @@
-# Quorum-based-Voting-Algorithm
+# Quorum-based-Mutual-Exclusion-Algorithm
+
